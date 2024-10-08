@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.env
+instance/
+
+orig_quiz_questions.csv
+
+# ~/.gitignore_global
+Session.vim
+.nvim.lua
+notes.md
+scripts.md
