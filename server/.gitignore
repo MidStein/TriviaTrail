@@ -4,4 +4,3 @@ __pycache__
 instance/
 
 orig_quiz_questions.csv
-init-user-db.sh
